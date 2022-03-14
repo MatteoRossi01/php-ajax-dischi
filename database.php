@@ -1,5 +1,5 @@
 <?php
-​
+
     $database = [
         [
             'title' => 'New Jersey',
